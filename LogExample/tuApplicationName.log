@@ -1,0 +1,18 @@
+
+2015-09-01 22:56:16 [DEBUG] [com.prueba.log.EjemploLog.main(EjemploLog.java:18)] 
+Salida DEBUG desde la clase EjemploLog
+
+2015-09-01 22:56:16 [ERROR] [com.prueba.log.EjemploLog.main(EjemploLog.java:21)] 
+Salida ERROR desde la clase EjemploLog
+
+2015-09-01 22:56:18 [DEBUG] [com.prueba.log.EjemploLog.main(EjemploLog.java:18)] 
+Salida DEBUG desde la clase EjemploLog
+
+2015-09-01 22:56:18 [ERROR] [com.prueba.log.EjemploLog.main(EjemploLog.java:21)] 
+Salida ERROR desde la clase EjemploLog
+
+2015-09-01 22:57:16 [DEBUG] [com.prueba.log.EjemploLog.main(EjemploLog.java:18)] 
+Salida DEBUG desde la clase EjemploLog
+
+2015-09-01 22:57:16 [ERROR] [com.prueba.log.EjemploLog.main(EjemploLog.java:21)] 
+Salida ERROR desde la clase EjemploLog
